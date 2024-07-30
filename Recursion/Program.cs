@@ -16,25 +16,6 @@
 //}
 
 
-//int Fun2(int n)
-//{
-//    if (n>0)
-//    {
-//        return Fun2(n - 1) + n;
-//    }
-//    return 0;
-//}
-
-
-//int  Fun3(int n)
-//{
-//    if (n > 0)
-//    {
-//        x++;
-//        return Fun3(n - 1) + x;
-//    }
-//    return 0;
-//}
 
 
 using Recursion;
